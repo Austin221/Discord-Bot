@@ -14,3 +14,6 @@ it has 5 simple commands.
 to set the admin role change the 'id' to whatever your id is
 to get the id do \@role.
 
+Get a discord api key from the discord dev website.
+Get a youtube api key from google, enter the keys into the settings.json file.
+Do \@name in discord and get your id, this sets the admin id. 
